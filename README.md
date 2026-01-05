@@ -1,13 +1,13 @@
 Text-Detection-and-Extraction-Model
 
-◦ Built an Optical Character Recognition (OCR) system to automatically detect and extract textual content from images using computer vision techniques.
+◦ Developed an end-to-end data science pipeline to extract, preprocess, and analyze text from unstructured image data using OCR and NLP techniques.
 
-◦ Implemented image preprocessing pipelines including grayscale conversion, OTSU thresholding, and morphological operations to improve text visibility and OCR accuracy.
+◦ Implemented image preprocessing and contour-based text localization using OpenCV to improve OCR accuracy.
 
-◦ Applied contour detection to localize text regions within images and performed region-wise text extraction for structured output.
+◦ Performed text cleaning, normalization, and exploratory text analysis to transform raw OCR output into structured datasets.
 
-◦ Integrated Tesseract OCR engine with Python to convert image-based text into machine-readable format and store extracted content in text files.
+◦ Applied NLP techniques such as keyword extraction and text vectorization to identify patterns and insights from extracted text.
 
-◦ Developed the solution in Google Colab with dynamic image uploads, enabling easy testing and reproducibility across different inputs.
+◦ Automated text extraction and analytics workflow to support downstream data analysis and reporting tasks.
 
-Tech Used: Python, OpenCV, Tesseract OCR, Pytesseract, Image Processing, Computer Vision
+Tech Used: Python, OpenCV, Tesseract OCR, Pandas, NumPy, NLP, Scikit-learn, Data Analysis
